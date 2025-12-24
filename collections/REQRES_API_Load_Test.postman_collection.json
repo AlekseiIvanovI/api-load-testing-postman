@@ -1,7 +1,7 @@
 {
     "info": {
         "name": "REQRES API Load Test",
-        "_postman_id": "your-unique-id",
+        "_postman_id": "unique-id",
         "description": "Load testing collection for reqres.in API – demonstrates bottleneck identification and 25% response time improvement",
         "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
     },
